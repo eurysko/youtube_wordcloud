@@ -49,6 +49,3 @@ Jupyter_Notebook形式
 入力：tf値のファイル、idf値のファイル  
 出力：フレーズクラウド  
 フォントのパスの書き換えが必要  
-
-## サンプル出力
-![sample](https://user-images.githubusercontent.com/52375309/60397976-19ade980-9b8e-11e9-9281-e9fb78603923.png)
